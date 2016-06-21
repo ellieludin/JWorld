@@ -1,0 +1,8 @@
+#Ignore IntelliJ settings
+
+*.iml
+*.idea/*
+
+#Ignore build artifacts
+*/target/*
+*.jar
